@@ -1,0 +1,31 @@
+
+
+
+#bar{
+	
+	width:300px;
+}
+
+#about{
+	width:300px;
+}
+
+#portfolio{
+	width:300px;
+}
+
+#services{
+	width:300px;
+}
+
+#contact{
+	width:300px;
+}
+
+.pic img{
+	float:left;
+	width:350px;
+	height:320px;
+	margin:25px;
+	padding:40px;
+}
